@@ -8,3 +8,7 @@
 
 # <a href="https://medium.com/@adithyakrishnav001/ssi-server-side-include-and-ssi-injection-d37d18ad0248">SSI (Server Side Include)and SSI Injection</a>
 
+# <a href="https://medium.com/towardsdev/prototype-pollution-bcebc9cd3164"> Prototype Pollution</a>
+
+# <a href="https://medium.com/@adithyakrishnav001/jwt-attacks-621a4410e4e2">JWT attacks </a>
+
